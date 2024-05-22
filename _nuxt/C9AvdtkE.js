@@ -1,0 +1,1 @@
+import{j as e,o,an as a}from"./ZzZo0wsG.js";import{u as s}from"./BkjjvYlK.js";const p={__name:"lte",setup(n){return s({bodyAttrs:{class:"sidebar-mini layout-fixed"}}),(_,r)=>{const t=a;return o(),e(t)}}};export{p as default};
