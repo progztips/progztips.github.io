@@ -1,0 +1,1 @@
+import t from"./CBq6sHVV.js";import{f as s,A as a,o as r,B as _,s as n}from"./DI-H7m5O.js";import"./Bu5Sv3EE.js";const i=s({__name:"[...slug]",setup(c){const{page:e}=a();return(p,m)=>{const o=t;return r(),_(o,{key:n(e)._id,value:n(e)},null,8,["value"])}}});export{i as default};
