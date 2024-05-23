@@ -1,0 +1,2 @@
+import{b as c,a as o,i as e,w as t,F as _,am as r,o as m,d as l,ao as d,an as i}from"./DkWIKtKD.js";import{_ as f}from"./DlAUqK2U.js";const u={},p=o("footer",{class:"d-flex justify-content-around align-items-center py-2"}," ProgzTips © 2024 ",-1);function x(g,h){const a=d,n=r,s=i;return m(),c(_,null,[o("header",null,[e(n,null,{default:t(()=>[e(a,{to:{name:"index"}},{default:t(()=>[l("Home")]),_:1})]),_:1})]),e(s,{style:{"min-height":"calc(100vh - 80px)","margin-bottom":"0"}}),p],64)}const v=f(u,[["render",x]]);export{v as default};
+//# sourceMappingURL=B03q76OO.js.map
