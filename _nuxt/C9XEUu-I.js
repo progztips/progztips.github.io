@@ -1,2 +1,0 @@
-import{ai as t,y as n}from"./MThmmCTx.js";import{u as o}from"./Bglxtl3e.js";const r=e=>t(e,n().public.content.api.baseURL),u=()=>{throw console.warn("useContent is only accessible when you are using `documentDriven` mode."),console.warn("Learn more by visiting: https://content.nuxt.com/document-driven"),new Error("useContent is only accessible when you are using `documentDriven` mode.")},a=()=>{const{experimental:e}=n().public.content;return e.clientDB?!0:o().isEnabled()};export{a as s,u,r as w};
-//# sourceMappingURL=C9XEUu-I.js.map
