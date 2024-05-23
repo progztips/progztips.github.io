@@ -1,2 +1,0 @@
-import{_ as t,S as a}from"./8dBKbSf-.js";import{b as s,i as o,j as e,ae as c,o as m}from"./COcKM7ye.js";import"./Bh3xTyoP.js";import"./DlAUqK2U.js";import"./DNICXKUf.js";import"./Doa6hTeI.js";import"./CC7D5923.js";import"./Dv8QPaC4.js";const g={__name:"home",setup(i){return(r,n)=>(m(),s("div",null,[o(e(t),{class:"frontpage-navbar","icon-classes":"text-success","logo-color":"#f8f9fa"}),c(r.$slots,"default"),o(e(a))]))}};export{g as default};
-//# sourceMappingURL=BiB0OYa2.js.map

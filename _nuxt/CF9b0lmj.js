@@ -1,0 +1,2 @@
+import{_ as s,S as a}from"./B_kvVIrV.js";import{aR as r,b as i,i as e,j as o,ad as n,e as c,o as m}from"./MFFSUS88.js";import{F as l,a as p}from"./BJHDLIWO.js";import"./BlyM2Wlo.js";import"./DlAUqK2U.js";import"./CQjylf-Z.js";import"./yVoeIzXy.js";import"./CC7D5923.js";import"./CXxlfeQQ.js";r("/images/google-play-badge.png");const B={__name:"default",setup(f){return(t,u)=>(m(),i("div",null,[e(o(s),{"icon-classes":"text-success","logo-color":"#f8f9fa"}),n(t.$slots,"default"),c("",!0),e(o(l)),e(o(p)),e(o(a))]))}};export{B as default};
+//# sourceMappingURL=CF9b0lmj.js.map
